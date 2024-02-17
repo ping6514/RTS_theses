@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{400BB504-5A35-8754-EC86-619A58EE60B7}") = "mousemove0519", "Assembly-CSharp.csproj", "{4E35EA12-0F8E-C2F7-18E0-A11A50941FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E35EA12-0F8E-C2F7-18E0-A11A50941FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E35EA12-0F8E-C2F7-18E0-A11A50941FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E35EA12-0F8E-C2F7-18E0-A11A50941FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E35EA12-0F8E-C2F7-18E0-A11A50941FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

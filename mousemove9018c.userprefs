@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\gameai.cs">
+    <Files>
+      <File FileName="Assets\Script\gameai.cs" Line="843" Column="1" />
+      <File FileName="Assets\Script\gameaib.cs" Line="428" Column="59" />
+      <File FileName="Assets\Script\gameai.cs" Line="473" Column="59" />
+      <File FileName="Assets\Script\game1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\cameracontrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\save.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
